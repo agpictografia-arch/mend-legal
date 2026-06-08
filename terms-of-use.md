@@ -1,3 +1,5 @@
+---
+---
 # Términos de Uso — Mend
 
 **Última actualización:** 6 de junio de 2026
