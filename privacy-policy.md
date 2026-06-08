@@ -1,3 +1,5 @@
+---
+---
 # Política de Privacidad — Mend
 
 **Última actualización:** 6 de junio de 2026
