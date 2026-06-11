@@ -2,7 +2,7 @@
 ---
 # Política de Privacidad — Mend
 
-**Última actualización:** 6 de junio de 2026
+**Última actualización:** 10 de junio de 2026
 **Aplicación:** Mend (iOS y Android)
 **Desarrollador:** Antonio González
 **País de operación:** México
@@ -26,7 +26,6 @@
 **Datos que NO recopilamos:**
 - No accedemos a tus contactos, cámara, micrófono ni ubicación
 - No vendemos tus datos a terceros ni con fines publicitarios
-- No usamos tu contenido para entrenar modelos de inteligencia artificial
 - No compartimos información personal identificable con anunciantes
 
 ---
@@ -41,11 +40,38 @@ Usamos tus datos exclusivamente para:
 - Detectar y prevenir uso fraudulento o actividad maliciosa
 - Cumplir con obligaciones legales aplicables
 
-**Sobre el uso de IA:** Los mensajes que escribes en Coach y Emergencia son procesados por Anthropic (proveedor de IA) para generar respuestas. Anthropic no almacena estos mensajes más allá del tiempo necesario para generar la respuesta, de acuerdo con su política de privacidad. No usamos tus conversaciones para entrenar ningún modelo de IA.
+---
+
+## 3. Uso de inteligencia artificial
+
+Mend utiliza un servicio de inteligencia artificial de terceros para procesar tus conversaciones en los módulos Coach y Emergencia. Es importante que sepas lo siguiente:
+
+- **Proveedor:** Anthropic (Claude), con sede en Estados Unidos
+- **Qué se envía:** el texto de tus mensajes durante una conversación de coaching o emergencia
+- **Qué NO se envía:** tu nombre, correo electrónico, datos de cuenta ni datos de otros módulos como Tu Ritual
+- **Almacenamiento:** Anthropic procesa los mensajes en tiempo real y no los almacena más allá del tiempo necesario para generar la respuesta, de acuerdo con su política de privacidad (anthropic.com/privacy)
+- **Entrenamiento:** ni Mend ni Anthropic utilizan tus conversaciones para entrenar modelos de inteligencia artificial
+- **Consentimiento:** antes de usar Coach o Emergencia por primera vez, la app te solicita consentimiento explícito para el procesamiento de tus mensajes mediante inteligencia artificial
+
+Si en el futuro cambiamos de proveedor de IA, actualizaremos esta política y te notificaremos según lo indicado en la sección 11.
 
 ---
 
-## 3. Con quién compartimos tus datos
+## 4. Aviso importante sobre el servicio
+
+Mend es una herramienta de apoyo emocional y comunicación. **No es un sustituto de atención psicológica, psiquiátrica ni médica profesional.**
+
+- Mend no diagnostica condiciones de salud mental
+- Mend no prescribe tratamientos ni medicamentos
+- Las respuestas generadas por inteligencia artificial no constituyen consejo médico ni terapéutico
+
+Si te encuentras en una situación de crisis o emergencia, contacta los servicios de emergencia de tu país o una línea de atención en crisis:
+- **México:** Línea de la Vida 800 911 2000
+- **USA:** 988 Suicide & Crisis Lifeline (llamada o texto al 988)
+
+---
+
+## 5. Con quién compartimos tus datos
 
 Trabajamos con los siguientes proveedores de servicios para operar Mend:
 
@@ -61,7 +87,7 @@ Estos proveedores solo acceden a los datos necesarios para prestar su servicio e
 
 ---
 
-## 4. Retención de datos
+## 6. Retención de datos
 
 - **Datos de cuenta:** mientras tu cuenta esté activa
 - **Conversaciones y contenido:** almacenados mientras uses la app; se eliminan al borrar tu cuenta
@@ -70,7 +96,7 @@ Estos proveedores solo acceden a los datos necesarios para prestar su servicio e
 
 ---
 
-## 5. Tus derechos
+## 7. Tus derechos
 
 Tienes derecho a:
 - **Acceso:** solicitar una copia de los datos que tenemos sobre ti
@@ -84,7 +110,7 @@ Responderemos en un plazo máximo de 30 días.
 
 ---
 
-## 6. Seguridad de tus datos
+## 8. Seguridad de tus datos
 
 Implementamos medidas de seguridad estándar de la industria:
 - Datos en tránsito: cifrado TLS/HTTPS
@@ -96,7 +122,7 @@ Aunque tomamos todas las medidas razonables, ningún sistema es completamente in
 
 ---
 
-## 7. Usuarios menores de edad
+## 9. Usuarios menores de edad
 
 Mend está clasificada para usuarios de 12 años en adelante (App Store / Play Store).
 
@@ -106,13 +132,13 @@ No recopilamos intencionalmente información personal de menores de 12 años. Si
 
 ---
 
-## 8. Transferencias internacionales de datos
+## 10. Transferencias internacionales de datos
 
 Tus datos pueden ser procesados en servidores ubicados fuera de México (principalmente en Estados Unidos, donde operan nuestros proveedores). Estos proveedores cumplen con estándares internacionales de protección de datos.
 
 ---
 
-## 9. Cumplimiento con la Ley Federal de Protección de Datos Personales (México)
+## 11. Cumplimiento con la Ley Federal de Protección de Datos Personales (México)
 
 Esta política cumple con los principios de la LFPDPPP:
 - **Licitud:** recopilamos datos con tu consentimiento al aceptar estos términos
@@ -128,7 +154,7 @@ Para ejercer tus derechos ARCO (Acceso, Rectificación, Cancelación, Oposición
 
 ---
 
-## 10. Cambios a esta política
+## 12. Cambios a esta política
 
 Si realizamos cambios materiales a esta política, te notificaremos por:
 - Notificación dentro de la app
@@ -138,9 +164,9 @@ Los cambios entran en vigor 30 días después de la notificación. El uso contin
 
 ---
 
-## 11. Contacto
+## 13. Contacto
 
 **Antonio González**
 Desarrollador de Mend
 support@mymend.app
-México
+México  
