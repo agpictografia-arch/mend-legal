@@ -1,6 +1,13 @@
+---
+title: Política de Privacidad — Mend
+lang: es_MX
+---
+
 # Política de Privacidad — Mend
 
-Última actualización: 19 de junio de 2026
+[Read this policy in English →](/en/privacy.html)
+
+Última actualización: 16 de julio de 2026
 Aplicación: Mend (iOS y Android)
 Desarrollador: Antonio González
 País de operación: México
@@ -11,7 +18,7 @@ Contacto: support@mymend.app
 **Datos que tú nos proporcionas:**
 
 - Cuenta: dirección de correo electrónico y contraseña (almacenada de forma cifrada)
-- Contenido de la app: mensajes que escribes en Coach y Emergencia, respuestas en Tu ritual
+- Contenido de la app: mensajes que escribes en Coach y Faro, respuestas en Tu ritual
 - Preferencias: configuraciones personalizadas dentro de la app
 
 **Datos que recopilamos automáticamente:**
@@ -40,14 +47,14 @@ Usamos tus datos exclusivamente para:
 
 ## 3. Uso de inteligencia artificial
 
-Mend utiliza un servicio de inteligencia artificial de terceros para procesar tus conversaciones en los módulos Coach y Emergencia. Es importante que sepas lo siguiente:
+Mend utiliza un servicio de inteligencia artificial de terceros para procesar tus conversaciones en los módulos Coach y Faro. Es importante que sepas lo siguiente:
 
 - **Proveedor:** Anthropic (Claude), con sede en Estados Unidos
 - **Qué se envía:** el texto de tus mensajes durante una conversación de coaching o emergencia
 - **Qué NO se envía:** tu nombre, correo electrónico, datos de cuenta ni datos de otros módulos como Tu Ritual
 - **Almacenamiento:** Anthropic retiene los mensajes procesados en sus sistemas internos por un máximo de **30 días** para fines de seguridad y cumplimiento, tras lo cual se eliminan automáticamente. En casos donde se detecte una violación de su Política de Uso, Anthropic puede retener los datos por períodos más largos para revisión de seguridad. Consulta detalles en anthropic.com/privacy
 - **Entrenamiento:** ni Mend ni Anthropic utilizan tus conversaciones para entrenar modelos de inteligencia artificial
-- **Consentimiento:** antes de usar Coach o Emergencia por primera vez, la app te solicita consentimiento explícito para el procesamiento de tus mensajes mediante inteligencia artificial
+- **Consentimiento:** antes de usar Coach o Faro por primera vez, la app te solicita consentimiento explícito para el procesamiento de tus mensajes mediante inteligencia artificial
 
 Si en el futuro cambiamos de proveedor de IA, actualizaremos esta política y te notificaremos según lo indicado en la sección 12.
 
@@ -181,7 +188,7 @@ Si no puedes acceder a la app, envíanos un correo a **support@mymend.app** desd
 Al eliminar tu cuenta, borramos de forma permanente:
 
 - Tu dirección de correo electrónico y contraseña
-- Todas tus conversaciones con Coach y Emergencia
+- Todas tus conversaciones con Coach y Faro
 - Tu progreso en Mend (senbazuru, rachas, fechas de uso)
 - Tus respuestas en Tu Ritual y check-ins
 - Tu información de suscripción (estado premium)
