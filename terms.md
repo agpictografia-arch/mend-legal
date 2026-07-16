@@ -1,8 +1,12 @@
 ---
+title: Términos de Uso — Mend
+lang: es_MX
 ---
 # Términos de Uso — Mend
 
-**Última actualización:** 6 de junio de 2026
+[Read these terms in English →](/en/terms.html)
+
+**Última actualización:** 16 de julio de 2026
 **Aplicación:** Mend (iOS y Android)
 **Desarrollador:** Antonio González — México
 **Contacto:** support@mymend.app
@@ -17,13 +21,13 @@ Al descargar, instalar o usar Mend, aceptas estos Términos de Uso en su totalid
 
 ## 2. Descripción del servicio
 
-Mend es una aplicación de coaching de comunicación y relaciones con inteligencia artificial. Proporciona acompañamiento emocional, herramientas de comunicación, y apoyo en momentos de conflicto o crisis emocional a través de tres módulos: Coach, Emergencia y Tu ritual.
+Mend es una aplicación de coaching de comunicación y relaciones con inteligencia artificial. Proporciona acompañamiento emocional, herramientas de comunicación, y apoyo en momentos de conflicto o crisis emocional a través de tres módulos: Coach, Faro y Tu ritual.
 
 **Aviso importante — No es un servicio de salud mental:**
 Mend es una herramienta de apoyo y coaching, **no un servicio médico, psicológico ni psiquiátrico**. Las conversaciones con Mend no constituyen terapia ni reemplazan la atención de un profesional de salud mental.
 
 Si estás en una situación de emergencia o riesgo para tu vida o la de otros, comunícate de inmediato con los servicios de emergencia de tu país:
-- **México:** Línea de la Vida — 800 290 0024 (24 horas, gratuita)
+- **México:** Línea de la Vida — 800 911 2000 (24 horas, gratuita)
 - **Emergencias generales:** 911
 
 ---
@@ -31,9 +35,10 @@ Si estás en una situación de emergencia o riesgo para tu vida o la de otros, c
 ## 3. Elegibilidad
 
 Para usar Mend debes:
-- Tener al menos 12 años de edad
+- Tener al menos 18 años
 - Tener capacidad legal para aceptar estos términos en tu jurisdicción
-- Si tienes entre 12 y 17 años, contar con conocimiento de tu padre, madre o tutor legal
+
+Mend está dirigida exclusivamente a personas adultas. No ofrecemos el servicio a menores de 18 años.
 
 ---
 
@@ -89,7 +94,6 @@ Mend usa inteligencia artificial (Anthropic Claude) para generar respuestas de c
 Mend ofrece un período de prueba gratuito de 7 días. Al finalizar, la suscripción se convierte automáticamente en paga a menos que la canceles antes del vencimiento del período de prueba.
 
 **Planes disponibles:**
-- Suscripción semanal
 - Suscripción mensual
 - Suscripción anual
 
