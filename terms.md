@@ -6,10 +6,8 @@ lang: es_MX
 
 [Read these terms in English →](/en/terms.html)
 
-**Última actualización:** 16 de julio de 2026
-**Aplicación:** Mend (iOS y Android)
-**Desarrollador:** Antonio González — México
-**Contacto:** support@mymend.app
+**Última actualización:** 22 de octubre de 2026
+**Aplicación:** Mend (iOS)
 
 ---
 
@@ -21,7 +19,7 @@ Al descargar, instalar o usar Mend, aceptas estos Términos de Uso en su totalid
 
 ## 2. Descripción del servicio
 
-Mend es una aplicación de coaching de comunicación y relaciones con inteligencia artificial. Proporciona acompañamiento emocional, herramientas de comunicación, y apoyo en momentos de conflicto o crisis emocional a través de tres módulos: Coach, Faro y Tu ritual.
+Mend es una aplicación de coaching de comunicación y relaciones con inteligencia artificial. Proporciona acompañamiento emocional, herramientas de comunicación, y apoyo en momentos de conflicto o crisis emocional a través de tres módulos: Coach, Ahora y Tu ritual.
 
 **Aviso importante — No es un servicio de salud mental:**
 Mend es una herramienta de apoyo y coaching, **no un servicio médico, psicológico ni psiquiátrico**. Las conversaciones con Mend no constituyen terapia ni reemplazan la atención de un profesional de salud mental.
@@ -43,6 +41,8 @@ Mend está dirigida exclusivamente a personas adultas. No ofrecemos el servicio 
 ---
 
 ## 4. Cuenta de usuario
+
+Puedes usar Mend sin crear una cuenta. Si guardas tu cuenta:
 
 - Eres responsable de mantener la seguridad de tu cuenta y contraseña
 - No puedes compartir tu cuenta con terceros
@@ -91,9 +91,9 @@ Mend usa inteligencia artificial (Anthropic Claude) para generar respuestas de c
 ## 8. Suscripciones y pagos
 
 **Período de prueba:**
-Mend ofrece un período de prueba gratuito de 7 días. Al finalizar, la suscripción se convierte automáticamente en paga a menos que la canceles antes del vencimiento del período de prueba.
+Mend Premium ofrece un período de prueba gratuito de 7 días para cuentas elegibles. Al finalizar, la suscripción se convierte automáticamente en paga a menos que la canceles antes del vencimiento del período de prueba.
 
-**Planes disponibles:**
+**Planes de Mend Premium:**
 - Suscripción mensual
 - Suscripción anual
 
@@ -101,16 +101,16 @@ Los precios exactos se muestran en la app al momento de la suscripción y pueden
 
 **Facturación:**
 - Las suscripciones se facturan automáticamente según el ciclo elegido
-- Los pagos se procesan a través de App Store (Apple) o Google Play (Google)
+- Los pagos se procesan a través de App Store (Apple)
 - Los precios pueden estar sujetos a cambios con previo aviso de 30 días
 
 **Cancelación:**
-- Puedes cancelar tu suscripción en cualquier momento desde la configuración de tu cuenta en App Store o Google Play
+- Puedes cancelar tu suscripción en cualquier momento desde la configuración de tu cuenta de Apple
 - La cancelación entra en vigor al final del período de facturación actual
 - La cancelación no genera reembolso del período pagado en curso
 
 **Reembolsos:**
-Los reembolsos se gestionan conforme a la política de Apple App Store o Google Play. Para solicitar reembolsos, dirígete directamente a la tienda donde realizaste la compra.
+Los reembolsos se gestionan conforme a la política de Apple App Store. Para solicitar un reembolso, dirígete directamente a Apple.
 
 ---
 
@@ -144,7 +144,7 @@ Esta limitación no afecta los derechos del consumidor bajo la ley mexicana apli
 
 ## 12. Terminación
 
-**Por tu parte:** Puedes dejar de usar Mend en cualquier momento y eliminar tu cuenta desde Configuración → Eliminar cuenta dentro de la app.
+**Por tu parte:** Puedes dejar de usar Mend en cualquier momento y eliminar tu cuenta desde Configuración → Eliminar cuenta dentro de la app (o Borrar mis datos, si usas Mend sin cuenta).
 
 **Por nuestra parte:** Podemos suspender o terminar cuentas que violen estos términos, previo aviso cuando sea posible. En casos de violaciones graves (actividades ilegales, abuso del servicio), podemos actuar de inmediato sin notificación previa.
 
@@ -154,7 +154,7 @@ Esta limitación no afecta los derechos del consumidor bajo la ley mexicana apli
 
 Notificaremos cambios materiales con al menos 30 días de anticipación mediante:
 - Notificación dentro de la app
-- Correo electrónico al registrado en tu cuenta
+- Correo electrónico al registrado en tu cuenta (si tienes una)
 
 El uso continuado después de la fecha efectiva implica aceptación de los nuevos términos.
 

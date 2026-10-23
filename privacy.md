@@ -7,24 +7,22 @@ lang: es_MX
 
 [Read this policy in English →](/en/privacy.html)
 
-Última actualización: 16 de julio de 2026
-Aplicación: Mend (iOS y Android)
-Desarrollador: Antonio González
-País de operación: México
-Contacto: support@mymend.app
+Última actualización: 22 de octubre de 2026
+Aplicación: Mend (iOS)
 
 ## 1. Información que recopilamos
 
 **Datos que tú nos proporcionas:**
 
-- Cuenta: dirección de correo electrónico y contraseña (almacenada de forma cifrada)
-- Contenido de la app: mensajes que escribes en Coach y Faro, respuestas en Tu ritual
+- Cuenta (opcional): puedes usar Mend sin crear una cuenta, con una sesión anónima. Si guardas tu cuenta, guardamos tu nombre y correo de Apple o Google, o tu correo y contraseña (almacenada de forma cifrada)
+- Perfil (opcional): nombre y rango de edad
+- Contenido de la app: mensajes que escribes en Coach y Ahora, y tus entradas en Tu ritual (incluido cómo te sientes)
 - Preferencias: configuraciones personalizadas dentro de la app
 
 **Datos que recopilamos automáticamente:**
 
-- Datos de uso: pantallas visitadas, funciones utilizadas, frecuencia de uso
-- Progreso: número de sesiones completadas (senbazuru), racha de uso
+- Estadísticas de uso, solo si activas "Compartir estadísticas de uso" en Configuración (viene apagado): funciones utilizadas y frecuencia de uso. Nunca incluyen lo que escribes
+- Progreso: número de grullas y días de uso
 - Datos técnicos: tipo de dispositivo, versión del sistema operativo, versión de la app
 - Identificadores anónimos de sesión
 
@@ -47,14 +45,14 @@ Usamos tus datos exclusivamente para:
 
 ## 3. Uso de inteligencia artificial
 
-Mend utiliza un servicio de inteligencia artificial de terceros para procesar tus conversaciones en los módulos Coach y Faro. Es importante que sepas lo siguiente:
+Mend utiliza un servicio de inteligencia artificial de terceros para procesar tus conversaciones en los módulos Coach y Ahora. Es importante que sepas lo siguiente:
 
 - **Proveedor:** Anthropic (Claude), con sede en Estados Unidos
-- **Qué se envía:** el texto de tus mensajes durante una conversación de coaching o emergencia
+- **Qué se envía:** el texto de tus mensajes durante una conversación en Coach o en Ahora. Tu primer mensaje también se analiza en el momento para identificar el tema (pareja, familia o personal) y si podrías necesitar ayuda inmediata; de ese análisis solo guardamos el tema
 - **Qué NO se envía:** tu nombre, correo electrónico, datos de cuenta ni datos de otros módulos como Tu Ritual
 - **Almacenamiento:** Anthropic retiene los mensajes procesados en sus sistemas internos por un máximo de **30 días** para fines de seguridad y cumplimiento, tras lo cual se eliminan automáticamente. En casos donde se detecte una violación de su Política de Uso, Anthropic puede retener los datos por períodos más largos para revisión de seguridad. Consulta detalles en anthropic.com/privacy
 - **Entrenamiento:** ni Mend ni Anthropic utilizan tus conversaciones para entrenar modelos de inteligencia artificial
-- **Consentimiento:** antes de usar Coach o Faro por primera vez, la app te solicita consentimiento explícito para el procesamiento de tus mensajes mediante inteligencia artificial
+- **Consentimiento:** antes de enviar tu primer mensaje a Coach o a Ahora, la app te solicita consentimiento explícito para el procesamiento de tus mensajes mediante inteligencia artificial
 
 Si en el futuro cambiamos de proveedor de IA, actualizaremos esta política y te notificaremos según lo indicado en la sección 12.
 
@@ -80,8 +78,9 @@ Trabajamos con los siguientes proveedores de servicios para operar Mend:
 | Supabase | Base de datos y autenticación segura | supabase.com/privacy |
 | Anthropic | Procesamiento de mensajes por IA | anthropic.com/privacy |
 | RevenueCat | Gestión de suscripciones y pagos | revenuecat.com/privacy |
-| Apple | Distribución en App Store y pagos | apple.com/legal/privacy |
-| Google | Distribución en Play Store y pagos | policies.google.com/privacy |
+| PostHog | Estadísticas de uso (solo si las activas) | posthog.com/privacy |
+| Apple | Distribución en App Store, pagos e inicio de sesión con Apple | apple.com/legal/privacy |
+| Google | Inicio de sesión con Google (opcional) | policies.google.com/privacy |
 
 Estos proveedores solo acceden a los datos necesarios para prestar su servicio específico. **No vendemos, alquilamos ni compartimos tus datos personales con terceros con fines comerciales.**
 
@@ -89,10 +88,12 @@ Estos proveedores solo acceden a los datos necesarios para prestar su servicio e
 
 - Datos de cuenta: mientras tu cuenta esté activa
 - Conversaciones y contenido: almacenados mientras uses la app; se eliminan al borrar tu cuenta
+- Lo que escribes en Ahora: Mend no lo guarda
+- Sesiones anónimas (sin cuenta): se eliminan automáticamente tras 6 meses sin actividad
 - Logs técnicos: máximo 90 días
 - Al eliminar tu cuenta: tus datos personales se eliminan permanentemente en un plazo de 30 días
 
-Para detalles específicos sobre cómo eliminar tu cuenta y qué datos se borran, consulta la [sección 14](#eliminar-cuenta).
+Para detalles específicos sobre cómo eliminar tu cuenta y qué datos se borran, consulta la [sección 13](#eliminar-cuenta).
 
 ## 7. Tus derechos
 
@@ -100,7 +101,7 @@ Tienes derecho a:
 
 - **Acceso:** solicitar una copia de los datos que tenemos sobre ti
 - **Corrección:** solicitar que corrijamos datos inexactos
-- **Eliminación:** solicitar que eliminemos tu cuenta y datos (también disponible directamente desde la app en Configuración — ver [sección 14](#eliminar-cuenta))
+- **Eliminación:** solicitar que eliminemos tu cuenta y datos (también disponible directamente desde la app en Configuración — ver [sección 13](#eliminar-cuenta))
 - **Portabilidad:** solicitar una exportación de tus datos
 - **Oposición:** objetar el procesamiento de tus datos en ciertos casos
 
@@ -113,14 +114,14 @@ Implementamos medidas de seguridad estándar de la industria:
 
 - **Datos en tránsito:** cifrado TLS/HTTPS
 - **Datos en reposo:** cifrado AES-256 (gestionado por Supabase)
-- **Contraseñas:** nunca se almacenan en texto plano (bcrypt)
+- **Contraseñas** (si usas correo y contraseña): nunca se almacenan en texto plano (bcrypt)
 - **Acceso a producción:** restringido al desarrollador
 
 Aunque tomamos todas las medidas razonables, ningún sistema es completamente infalible. Si detectas alguna vulnerabilidad, notifícanos en: **support@mymend.app**
 
 ## 9. Usuarios menores de edad
 
-Mend está clasificada exclusivamente para usuarios **mayores de 18 años** (App Store / Play Store).
+Mend está clasificada exclusivamente para usuarios **mayores de 18 años** (App Store).
 
 No ofrecemos servicio a personas menores de 18 años. Mend incluye funciones de apoyo emocional para conflictos de pareja y momentos de crisis emocional, contenido diseñado para adultos en relaciones.
 
@@ -137,7 +138,7 @@ Tus datos pueden ser procesados en servidores ubicados fuera de México (princip
 Esta política cumple con los principios de la LFPDPPP:
 
 - **Licitud:** recopilamos datos con tu consentimiento al aceptar estos términos
-- **Consentimiento:** puedes revocar el consentimiento eliminando tu cuenta
+- **Consentimiento:** puedes revocar el consentimiento eliminando tu cuenta o tus datos, y apagar las estadísticas de uso en cualquier momento
 - **Información:** te informamos claramente sobre el uso de tus datos
 - **Calidad:** mantenemos tus datos actualizados y precisos
 - **Finalidad:** usamos tus datos solo para los fines declarados
@@ -156,16 +157,9 @@ Si realizamos cambios materiales a esta política, te notificaremos por:
 
 Los cambios entran en vigor 30 días después de la notificación. El uso continuado de la app después de ese plazo implica aceptación.
 
-## 13. Contacto
-
-Antonio González
-Desarrollador de Mend
-**support@mymend.app**
-México
-
 <a id="eliminar-cuenta"></a>
 
-## 14. Cómo eliminar tu cuenta
+## 13. Cómo eliminar tu cuenta
 
 Mend te permite eliminar tu cuenta y todos tus datos personales asociados en cualquier momento.
 
@@ -174,7 +168,7 @@ Mend te permite eliminar tu cuenta y todos tus datos personales asociados en cua
 1. Abre la app **Mend** en tu dispositivo
 2. Ve a **Configuración** (ícono de ajustes)
 3. Desplázate hasta la sección **Cuenta**
-4. Toca **Eliminar cuenta**
+4. Toca **Eliminar cuenta** (o **Borrar mis datos**, si usas Mend sin cuenta)
 5. Confirma la eliminación
 
 La eliminación es inmediata desde la app y se procesa automáticamente.
@@ -188,8 +182,8 @@ Si no puedes acceder a la app, envíanos un correo a **support@mymend.app** desd
 Al eliminar tu cuenta, borramos de forma permanente:
 
 - Tu dirección de correo electrónico y contraseña
-- Todas tus conversaciones con Coach y Faro
-- Tu progreso en Mend (senbazuru, rachas, fechas de uso)
+- Todas tus conversaciones con Coach
+- Tu progreso en Mend (grullas, fechas de uso)
 - Tus respuestas en Tu Ritual y check-ins
 - Tu información de suscripción (estado premium)
 - Tus preferencias y configuraciones personalizadas
@@ -197,7 +191,13 @@ Al eliminar tu cuenta, borramos de forma permanente:
 ### Qué datos se conservan y por cuánto tiempo
 
 - **Logs técnicos anonimizados:** hasta 90 días, sin información personal identificable
-- **Registros de transacciones financieras:** conservados por Apple, Google y RevenueCat según sus propias políticas y obligaciones fiscales aplicables (Mend no controla esta retención)
+- **Registros de transacciones financieras:** conservados por Apple y RevenueCat según sus propias políticas y obligaciones fiscales aplicables (Mend no controla esta retención)
 - **Datos requeridos por ley:** podemos retener cierta información si una autoridad competente lo exige por obligación legal
 
 Los datos personales identificables se eliminan de los sistemas de Mend en un plazo máximo de **30 días** desde la solicitud.
+
+## 14. Contacto
+
+Antonio González
+Desarrollador de Mend
+**support@mymend.app**

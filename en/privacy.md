@@ -8,24 +8,22 @@ permalink: /en/privacy.html
 
 [Leer esta política en español →](/privacy.html)
 
-Last updated: July 16, 2026
-App: Mend (iOS and Android)
-Developer: Antonio González
-Country of operation: Mexico
-Contact: support@mymend.app
+Last updated: October 22, 2026
+App: Mend (iOS)
 
 ## 1. Information we collect
 
 **Information you provide to us:**
 
-- Account: email address and password (stored encrypted)
-- App content: messages you write in Coach and Lighthouse, responses in Your Ritual
+- Account (optional): you can use Mend without creating an account, with an anonymous session. If you save your account, we store your name and email from Apple or Google, or your email and password (stored encrypted)
+- Profile (optional): name and age range
+- App content: messages you write in Coach and Now, and your entries in Your Ritual (including how you feel)
 - Preferences: custom settings within the app
 
 **Information we collect automatically:**
 
-- Usage data: screens visited, features used, frequency of use
-- Progress: number of completed sessions (senbazuru), usage streak
+- Usage statistics, only if you turn on "Share usage statistics" in Settings (it's off by default): features used and frequency of use. They never include what you write
+- Progress: number of cranes and days of use
 - Technical data: device type, operating system version, app version
 - Anonymous session identifiers
 
@@ -48,14 +46,14 @@ We use your data exclusively to:
 
 ## 3. Use of artificial intelligence
 
-Mend uses a third-party artificial intelligence service to process your conversations in the Coach and Lighthouse modules. It is important that you know the following:
+Mend uses a third-party artificial intelligence service to process your conversations in the Coach and Now modules. It is important that you know the following:
 
 - **Provider:** Anthropic (Claude), based in the United States
-- **What is sent:** the text of your messages during a coaching or emergency conversation
+- **What is sent:** the text of your messages during a conversation in Coach or Now. Your first message is also analyzed at that moment to identify the topic (partner, family, or personal) and whether you might need immediate help; from that analysis we only keep the topic
 - **What is NOT sent:** your name, email address, account data, or data from other modules such as Your Ritual
 - **Storage:** Anthropic retains processed messages in its internal systems for a maximum of **30 days** for safety and compliance purposes, after which they are automatically deleted. Where a violation of its Usage Policy is detected, Anthropic may retain data for longer periods for safety review. See details at anthropic.com/privacy
 - **Training:** neither Mend nor Anthropic uses your conversations to train artificial intelligence models
-- **Consent:** before you use Coach or Lighthouse for the first time, the app asks for your explicit consent to the processing of your messages by artificial intelligence
+- **Consent:** before you send your first message to Coach or Now, the app asks for your explicit consent to the processing of your messages by artificial intelligence
 
 If we change AI providers in the future, we will update this policy and notify you as described in section 12.
 
@@ -81,8 +79,9 @@ We work with the following service providers to operate Mend:
 | Supabase | Database and secure authentication | supabase.com/privacy |
 | Anthropic | AI message processing | anthropic.com/privacy |
 | RevenueCat | Subscription and payment management | revenuecat.com/privacy |
-| Apple | App Store distribution and payments | apple.com/legal/privacy |
-| Google | Play Store distribution and payments | policies.google.com/privacy |
+| PostHog | Usage statistics (only if you turn them on) | posthog.com/privacy |
+| Apple | App Store distribution, payments, and Sign in with Apple | apple.com/legal/privacy |
+| Google | Sign in with Google (optional) | policies.google.com/privacy |
 
 These providers only access the data necessary to deliver their specific service. **We do not sell, rent, or share your personal data with third parties for commercial purposes.**
 
@@ -90,10 +89,12 @@ These providers only access the data necessary to deliver their specific service
 
 - Account data: for as long as your account is active
 - Conversations and content: stored while you use the app; deleted when you delete your account
+- What you write in Now: Mend does not store it
+- Anonymous sessions (no account): automatically deleted after 6 months of inactivity
 - Technical logs: 90 days maximum
 - When you delete your account: your personal data is permanently deleted within 30 days
 
-For specific details on how to delete your account and what data is deleted, see [section 14](#delete-account).
+For specific details on how to delete your account and what data is deleted, see [section 13](#delete-account).
 
 ## 7. Your rights
 
@@ -101,7 +102,7 @@ You have the right to:
 
 - **Access:** request a copy of the data we hold about you
 - **Correction:** request that we correct inaccurate data
-- **Deletion:** request that we delete your account and data (also available directly in the app under Settings — see [section 14](#delete-account))
+- **Deletion:** request that we delete your account and data (also available directly in the app under Settings — see [section 13](#delete-account))
 - **Portability:** request an export of your data
 - **Objection:** object to the processing of your data in certain cases
 
@@ -114,14 +115,14 @@ We implement industry-standard security measures:
 
 - **Data in transit:** TLS/HTTPS encryption
 - **Data at rest:** AES-256 encryption (managed by Supabase)
-- **Passwords:** never stored in plain text (bcrypt)
+- **Passwords** (if you use email and password): never stored in plain text (bcrypt)
 - **Production access:** restricted to the developer
 
 While we take all reasonable measures, no system is completely infallible. If you detect a vulnerability, notify us at: **support@mymend.app**
 
 ## 9. Underage users
 
-Mend is rated exclusively for users **18 years and older** (App Store / Play Store).
+Mend is rated exclusively for users **18 years and older** (App Store).
 
 We do not offer the service to people under 18. Mend includes emotional support features for relationship conflicts and moments of emotional crisis — content designed for adults in relationships.
 
@@ -138,7 +139,7 @@ Your data may be processed on servers located outside Mexico (mainly in the Unit
 This policy complies with the principles of the LFPDPPP:
 
 - **Lawfulness:** we collect data with your consent when you accept these terms
-- **Consent:** you can revoke your consent by deleting your account
+- **Consent:** you can revoke your consent by deleting your account or your data, and turn off usage statistics at any time
 - **Information:** we clearly inform you about how your data is used
 - **Quality:** we keep your data accurate and up to date
 - **Purpose:** we use your data only for the stated purposes
@@ -157,16 +158,9 @@ If we make material changes to this policy, we will notify you by:
 
 Changes take effect 30 days after notification. Continued use of the app after that period constitutes acceptance.
 
-## 13. Contact
-
-Antonio González
-Developer of Mend
-**support@mymend.app**
-Mexico
-
 <a id="delete-account"></a>
 
-## 14. How to delete your account
+## 13. How to delete your account
 
 Mend lets you delete your account and all associated personal data at any time.
 
@@ -175,7 +169,7 @@ Mend lets you delete your account and all associated personal data at any time.
 1. Open the **Mend** app on your device
 2. Go to **Settings** (gear icon)
 3. Scroll to the **Account** section
-4. Tap **Delete account**
+4. Tap **Delete account** (or **Delete my data** if you use Mend without an account)
 5. Confirm the deletion
 
 Deletion is immediate from the app and is processed automatically.
@@ -189,8 +183,8 @@ If you can't access the app, send an email to **support@mymend.app** from the em
 When you delete your account, we permanently erase:
 
 - Your email address and password
-- All your conversations with Coach and Lighthouse
-- Your progress in Mend (senbazuru, streaks, usage dates)
+- All your conversations with Coach
+- Your progress in Mend (cranes, usage dates)
 - Your responses in Your Ritual and check-ins
 - Your subscription information (premium status)
 - Your custom preferences and settings
@@ -198,7 +192,13 @@ When you delete your account, we permanently erase:
 ### What data is kept and for how long
 
 - **Anonymized technical logs:** up to 90 days, with no personally identifiable information
-- **Financial transaction records:** kept by Apple, Google, and RevenueCat under their own policies and applicable tax obligations (Mend does not control this retention)
+- **Financial transaction records:** kept by Apple and RevenueCat under their own policies and applicable tax obligations (Mend does not control this retention)
 - **Data required by law:** we may retain certain information if a competent authority requires it under a legal obligation
 
 Personally identifiable data is deleted from Mend's systems within a maximum of **30 days** of the request.
+
+## 14. Contact
+
+Antonio González
+Developer of Mend
+**support@mymend.app**

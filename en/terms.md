@@ -7,10 +7,8 @@ permalink: /en/terms.html
 
 [Leer estos términos en español →](/terms.html)
 
-**Last updated:** July 16, 2026
-**App:** Mend (iOS and Android)
-**Developer:** Antonio González — Mexico
-**Contact:** support@mymend.app
+**Last updated:** October 22, 2026
+**App:** Mend (iOS)
 
 ---
 
@@ -22,7 +20,7 @@ By downloading, installing, or using Mend, you accept these Terms of Use in full
 
 ## 2. Description of the service
 
-Mend is an AI-powered communication and relationship coaching app. It provides emotional support, communication tools, and support during moments of conflict or emotional crisis through three modules: Coach, Lighthouse, and Your Ritual.
+Mend is an AI-powered communication and relationship coaching app. It provides emotional support, communication tools, and support during moments of conflict or emotional crisis through three modules: Coach, Now, and Your Ritual.
 
 **Important notice — Not a mental health service:**
 Mend is a support and coaching tool, **not a medical, psychological, or psychiatric service**. Conversations with Mend do not constitute therapy and do not replace care from a mental health professional.
@@ -44,6 +42,8 @@ Mend is intended exclusively for adults. We do not offer the service to anyone u
 ---
 
 ## 4. User account
+
+You can use Mend without creating an account. If you save your account:
 
 - You are responsible for keeping your account and password secure
 - You may not share your account with third parties
@@ -92,9 +92,9 @@ Mend uses artificial intelligence (Anthropic Claude) to generate coaching respon
 ## 8. Subscriptions and payments
 
 **Trial period:**
-Mend offers a 7-day free trial. When it ends, the subscription automatically converts to paid unless you cancel before the trial period expires.
+Mend Premium offers a 7-day free trial for eligible accounts. When it ends, the subscription automatically converts to paid unless you cancel before the trial period expires.
 
-**Available plans:**
+**Mend Premium plans:**
 - Monthly subscription
 - Annual subscription
 
@@ -102,16 +102,16 @@ Exact prices are shown in the app at the time of subscription and may vary by re
 
 **Billing:**
 - Subscriptions are billed automatically according to the chosen cycle
-- Payments are processed through the App Store (Apple) or Google Play (Google)
+- Payments are processed through the App Store (Apple)
 - Prices may change with 30 days' prior notice
 
 **Cancellation:**
-- You can cancel your subscription at any time from your account settings in the App Store or Google Play
+- You can cancel your subscription at any time from your Apple account settings
 - Cancellation takes effect at the end of the current billing period
 - Cancellation does not generate a refund for the current paid period
 
 **Refunds:**
-Refunds are handled under Apple App Store or Google Play policy. To request a refund, go directly to the store where you made the purchase.
+Refunds are handled under Apple App Store policy. To request a refund, go directly to Apple.
 
 ---
 
@@ -145,7 +145,7 @@ This limitation does not affect consumer rights under applicable Mexican law (Fe
 
 ## 12. Termination
 
-**By you:** You may stop using Mend at any time and delete your account from Settings → Delete account within the app.
+**By you:** You may stop using Mend at any time and delete your account from Settings → Delete account within the app (or Delete my data if you use Mend without an account).
 
 **By us:** We may suspend or terminate accounts that violate these terms, with prior notice when possible. In cases of serious violations (illegal activities, service abuse), we may act immediately without prior notice.
 
@@ -155,7 +155,7 @@ This limitation does not affect consumer rights under applicable Mexican law (Fe
 
 We will notify you of material changes at least 30 days in advance through:
 - In-app notification
-- Email to the address registered with your account
+- Email to the address registered with your account (if you have one)
 
 Continued use after the effective date constitutes acceptance of the new terms.
 
